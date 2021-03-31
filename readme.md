@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="nyan" title="nyan" src=".github/start-screen" />
+  <img alt="nyan" title="nyan" src=".github/start-screen.png" />
 </h1>
 
 ## 🧪 Technologies
